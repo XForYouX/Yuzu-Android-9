@@ -2,6 +2,8 @@
 
 (https://github.com/XForYouX/Yuzu-Android-9/releases/tag/Alpha-V.6)
 
+-----
+
 **Full Changelog NCE**
 
 | Pull Request | Commit | Title | Author | Merged? |
