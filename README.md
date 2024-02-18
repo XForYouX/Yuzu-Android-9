@@ -1,3 +1,5 @@
+**Full Changelog NCE**
+
 | Pull Request | Commit | Title | Author | Merged? |
 |----|----|----|----|----|
 | [10529](https://github.com/yuzu-emu/yuzu//pull/10529) | [`368bf2211`](https://github.com/yuzu-emu/yuzu//pull/10529/files) | caches: make critical reclamation less eager and possible in more cases | [liamwhite](https://github.com/liamwhite/) | Yes |
