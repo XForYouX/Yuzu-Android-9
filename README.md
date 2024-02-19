@@ -1,7 +1,4 @@
 -----
-<marquee direction="left">
-    Wellcome To My Github
-</marquee>
 
 **Enjoy**
 
