@@ -61,7 +61,8 @@ It is written in C++ with portability in mind, and we actively maintain builds f
   <a href="#development">Development</a> |
   <a href="#building">Building</a> |
   <a href="#download">Download</a> |
-  <a href="#support">Support</a> |
+  <a href="#support-patreon">Support Via Patreon</a> |
+  <a href="#support-playstore">Support Via Playstore</a> |
   <a href="#license">License</a>
 </p>
 
@@ -92,7 +93,7 @@ If you want to contribute to the user interface translation project, please chec
 You can download the latest releases automatically via the installer on our [downloads](https://yuzu-emu.org/downloads/) page.
 
 
-## Support
+## support-patreon
 
 If you enjoy the project and want to support us financially, check out our Patreon!
 
@@ -108,6 +109,27 @@ Any donations received will go towards things like:
 * Additional hardware (e.g. GPUs as-needed to improve rendering support, other peripherals to add support for, etc.)
 
 If you wish to support us a different way, please join our [Discord](https://discord.gg/u77vRWY) and talk to bunnei. You may also contact: donations@yuzu-emu.org.
+
+## support-playstore
+
+If you enjoy the project and want to support us financially, check out our Playstore!
+
+<a href="https://play.google.com/store/apps/details?id=org.yuzu.yuzu_emu.ea">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="160">
+</a>
+
+
+EARLY ACCESS BENEFITS
+
+*- Cutting-edge features and speed improvements
+
+*- Early access to in-development updates
+
+*- Prioritized support
+
+*- The warm feeling that you're helping preserve video game history
+
+*- Our eternal gratitude
 
 ## License
 
