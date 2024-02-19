@@ -1,6 +1,5 @@
 -----
-
-<marquee behavior="scroll" direction="left">
+<marquee direction="left">
     Wellcome To My Github
 </marquee>
 
