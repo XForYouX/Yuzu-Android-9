@@ -4,7 +4,7 @@
 
 **Full Changelog Alpha V.6**
 
-(https://github.com/XForYouX/Yuzu-Android-9/releases/tag/Alpha-V.6)
+([https://github.com/XForYouX/Yuzu-Android-9/releases/tag/Alpha-V.6](https://github.com/XForYouX/Yuzu-Android-9/releases/tag/Alpha-V.7))
 
 **Full Changelog NCE V.255**
 
