@@ -133,4 +133,4 @@ EARLY ACCESS BENEFITS
 
 ## License
 
-yuzu is licensed under the GPLv3 (or any later version). Refer to the [LICENSE.txt](https://github.com/XForYouX/Yuzu-Android-9/blob/master/LICENSE.txt) file.
+yuzu is licensed under the GPLv3 (or any later version). Refer to the [LICENSE](https://github.com/XForYouX/Yuzu-Android-9/blob/master/LICENSE) file.
