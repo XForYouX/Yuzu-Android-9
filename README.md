@@ -6,7 +6,7 @@
 
 ([https://github.com/XForYouX/Yuzu-Android-9/releases/tag/Alpha-V.7)](https://github.com/XForYouX/Yuzu-Android-9/releases/tag/Alpha-V.7)
 
-**Full Changelog NCE V.255**
+**Full Changelog NCE V.256**
 
 | Pull Request | Commit | Title | Author | Merged? |
 |----|----|----|----|----|
@@ -16,15 +16,15 @@
 | [13000](https://github.com/yuzu-emu/yuzu//pull/13000) | [`461eaca7e`](https://github.com/yuzu-emu/yuzu//pull/13000/files) | device_memory_manager: skip unregistered interfaces on invalidate | [liamwhite](https://github.com/liamwhite/) | Yes |
 | [13006](https://github.com/yuzu-emu/yuzu//pull/13006) | [`3067bfd12`](https://github.com/yuzu-emu/yuzu//pull/13006/files) | buffer_cache: use mapped range with large vertex buffer size | [liamwhite](https://github.com/liamwhite/) | Yes |
 | [13026](https://github.com/yuzu-emu/yuzu//pull/13026) | [`462ea921e`](https://github.com/yuzu-emu/yuzu//pull/13026/files) |  shader_recompiler: fix non-const offset for arrayed image types  | [liamwhite](https://github.com/liamwhite/) | Yes |
-| [13030](https://github.com/yuzu-emu/yuzu//pull/13030) | [`4cbafc1ef`](https://github.com/yuzu-emu/yuzu//pull/13030/files) | service: audio: Rewrite IAudioController to new IPC | [german77](https://github.com/german77/) | Yes |
+| [13031](https://github.com/yuzu-emu/yuzu//pull/13031) | [`110969e20`](https://github.com/yuzu-emu/yuzu//pull/13031/files) | service: btm: Migrate service to new IPC | [german77](https://github.com/german77/) | Yes |
 | [13035](https://github.com/yuzu-emu/yuzu//pull/13035) | [`940a71422`](https://github.com/yuzu-emu/yuzu//pull/13035/files) | vi: manage resources independently of nvnflinger and refactor | [liamwhite](https://github.com/liamwhite/) | Yes |
-| [13048](https://github.com/yuzu-emu/yuzu//pull/13048) | [`4cdf18095`](https://github.com/yuzu-emu/yuzu//pull/13048/files) | ns: rewrite for new IPC | [liamwhite](https://github.com/liamwhite/) | Yes |
-| [13070](https://github.com/yuzu-emu/yuzu//pull/13070) | [`911ee8fd1`](https://github.com/yuzu-emu/yuzu//pull/13070/files) | am: account for offset in transfer memory storage | [liamwhite](https://github.com/liamwhite/) | Yes |
+| [13048](https://github.com/yuzu-emu/yuzu//pull/13048) | [`d45a12826`](https://github.com/yuzu-emu/yuzu//pull/13048/files) | ns: rewrite for new IPC | [liamwhite](https://github.com/liamwhite/) | Yes |
 
 
 End of merge log. You can find the original README.md below the break.
 
 -----
+
 <!--
 SPDX-FileCopyrightText: 2018 yuzu Emulator Project
 SPDX-License-Identifier: GPL-2.0-or-later
