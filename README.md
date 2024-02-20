@@ -8,19 +8,16 @@
 
 **Full Changelog NCE V.256**
 
-(https://github.com/XForYouX/Yuzu-Android-9/releases/tag/V.256)
+()
 
 | Pull Request | Commit | Title | Author | Merged? |
 |----|----|----|----|----|
 | [10529](https://github.com/yuzu-emu/yuzu//pull/10529) | [`368bf2211`](https://github.com/yuzu-emu/yuzu//pull/10529/files) | caches: make critical reclamation less eager and possible in more cases | [liamwhite](https://github.com/liamwhite/) | Yes |
-| [12461](https://github.com/yuzu-emu/yuzu//pull/12461) | [`acc26667b`](https://github.com/yuzu-emu/yuzu//pull/12461/files) | Rework Nvdec and VIC to fix out-of-order videos, and speed up decoding. | [Kelebek1](https://github.com/Kelebek1/) | Yes |
+| [12461](https://github.com/yuzu-emu/yuzu//pull/12461) | [`2831f5dc6`](https://github.com/yuzu-emu/yuzu//pull/12461/files) | Rework Nvdec and VIC to fix out-of-order videos, and speed up decoding. | [Kelebek1](https://github.com/Kelebek1/) | Yes |
 | [12749](https://github.com/yuzu-emu/yuzu//pull/12749) | [`aad4b0d6f`](https://github.com/yuzu-emu/yuzu//pull/12749/files) | general: workarounds for SMMU syncing issues | [liamwhite](https://github.com/liamwhite/) | Yes |
 | [13000](https://github.com/yuzu-emu/yuzu//pull/13000) | [`461eaca7e`](https://github.com/yuzu-emu/yuzu//pull/13000/files) | device_memory_manager: skip unregistered interfaces on invalidate | [liamwhite](https://github.com/liamwhite/) | Yes |
-| [13006](https://github.com/yuzu-emu/yuzu//pull/13006) | [`3067bfd12`](https://github.com/yuzu-emu/yuzu//pull/13006/files) | buffer_cache: use mapped range with large vertex buffer size | [liamwhite](https://github.com/liamwhite/) | Yes |
-| [13026](https://github.com/yuzu-emu/yuzu//pull/13026) | [`462ea921e`](https://github.com/yuzu-emu/yuzu//pull/13026/files) |  shader_recompiler: fix non-const offset for arrayed image types  | [liamwhite](https://github.com/liamwhite/) | Yes |
-| [13031](https://github.com/yuzu-emu/yuzu//pull/13031) | [`110969e20`](https://github.com/yuzu-emu/yuzu//pull/13031/files) | service: btm: Migrate service to new IPC | [german77](https://github.com/german77/) | Yes |
-| [13035](https://github.com/yuzu-emu/yuzu//pull/13035) | [`940a71422`](https://github.com/yuzu-emu/yuzu//pull/13035/files) | vi: manage resources independently of nvnflinger and refactor | [liamwhite](https://github.com/liamwhite/) | Yes |
-| [13048](https://github.com/yuzu-emu/yuzu//pull/13048) | [`d45a12826`](https://github.com/yuzu-emu/yuzu//pull/13048/files) | ns: rewrite for new IPC | [liamwhite](https://github.com/liamwhite/) | Yes |
+| [13075](https://github.com/yuzu-emu/yuzu//pull/13075) | [`f46dc3168`](https://github.com/yuzu-emu/yuzu//pull/13075/files) | shader_recompiler: throw on missing geometry streams in geometry shaders | [liamwhite](https://github.com/liamwhite/) | Yes |
+| [13079](https://github.com/yuzu-emu/yuzu//pull/13079) | [`e462bff09`](https://github.com/yuzu-emu/yuzu//pull/13079/files) | vi: misc fixes | [liamwhite](https://github.com/liamwhite/) | Yes |
 
 
 End of merge log. You can find the original README.md below the break.
