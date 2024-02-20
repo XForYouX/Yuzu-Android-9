@@ -6,9 +6,9 @@
 
 (https://github.com/XForYouX/Yuzu-Android-9/releases/tag/Alpha-V.10)
 
-**Full Changelog NCE V.256**
+**Full Changelog NCE V.257**
 
-()
+(https://github.com/XForYouX/Yuzu-Android-9/releases/tag/V.257)
 
 | Pull Request | Commit | Title | Author | Merged? |
 |----|----|----|----|----|
