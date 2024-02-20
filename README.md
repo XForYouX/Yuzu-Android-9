@@ -112,7 +112,7 @@ If you wish to support us a different way, please join our [Discord](https://dis
 You can support developers via the button that we have provided for Android users
 
 <a href="https://play.google.com/store/apps/details?id=org.yuzu.yuzu_emu.ea">
-      <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200">
+    <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200">
 </a>
 
 
