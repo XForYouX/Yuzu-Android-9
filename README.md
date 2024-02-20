@@ -109,24 +109,20 @@ If you wish to support us a different way, please join our [Discord](https://dis
 
 ## support-playstore
 
-If you enjoy the project and want to support us financially, check out our Playstore!
+You can support developers via the button that we have provided for Android users
 
 <a href="https://play.google.com/store/apps/details?id=org.yuzu.yuzu_emu.ea">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="160">
+        <div style="align-items: center;"><img alt="yuzu early access" src="/entry/yuzu-android/svg/early_access.svg" width="400"></div>
+        <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200">
 </a>
 
 
 EARLY ACCESS BENEFITS
-
-*- Cutting-edge features and speed improvements
-
-*- Early access to in-development updates
-
-*- Prioritized support
-
-*- The warm feeling that you're helping preserve video game history
-
-*- Our eternal gratitude
+* Cutting-edge features and speed improvements
+* Early access to in-development updates
+* Prioritized support
+* The warm feeling that you're helping preserve video game history
+* Our eternal gratitude
 
 ## License
 
