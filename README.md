@@ -12,12 +12,13 @@
 
 | Pull Request | Commit | Title | Author | Merged? |
 |----|----|----|----|----|
-| [10529](https://github.com/yuzu-emu/yuzu//pull/10529) | [`368bf2211`](https://github.com/yuzu-emu/yuzu//pull/10529/files) | caches: make critical reclamation less eager and possible in more cases | [liamwhite](https://github.com/liamwhite/) | Yes |
 | [12461](https://github.com/yuzu-emu/yuzu//pull/12461) | [`2831f5dc6`](https://github.com/yuzu-emu/yuzu//pull/12461/files) | Rework Nvdec and VIC to fix out-of-order videos, and speed up decoding. | [Kelebek1](https://github.com/Kelebek1/) | Yes |
 | [12749](https://github.com/yuzu-emu/yuzu//pull/12749) | [`aad4b0d6f`](https://github.com/yuzu-emu/yuzu//pull/12749/files) | general: workarounds for SMMU syncing issues | [liamwhite](https://github.com/liamwhite/) | Yes |
 | [12982](https://github.com/yuzu-emu/yuzu//pull/12982) | [`ef5027712`](https://github.com/yuzu-emu/yuzu//pull/12982/files) | fs: Add FileSystemAccessor and use cmif serialization | [FearlessTobi](https://github.com/FearlessTobi/) | Yes |
 | [13000](https://github.com/yuzu-emu/yuzu//pull/13000) | [`461eaca7e`](https://github.com/yuzu-emu/yuzu//pull/13000/files) | device_memory_manager: skip unregistered interfaces on invalidate | [liamwhite](https://github.com/liamwhite/) | Yes |
 | [13075](https://github.com/yuzu-emu/yuzu//pull/13075) | [`f46dc3168`](https://github.com/yuzu-emu/yuzu//pull/13075/files) | shader_recompiler: throw on missing geometry streams in geometry shaders | [liamwhite](https://github.com/liamwhite/) | Yes |
+| [13096](https://github.com/yuzu-emu/yuzu//pull/13096) | [`0a8759057`](https://github.com/yuzu-emu/yuzu//pull/13096/files) | texture_cache: use two-pass collection for costly load resources | [liamwhite](https://github.com/liamwhite/) | Yes |
+| [13105](https://github.com/yuzu-emu/yuzu//pull/13105) | [`de5422b1f`](https://github.com/yuzu-emu/yuzu//pull/13105/files) | android: Misc controller fixes | [t895](https://github.com/t895/) | Yes |
 
 
 End of merge log. You can find the original README.md below the break.
