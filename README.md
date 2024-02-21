@@ -15,9 +15,9 @@
 | [10529](https://github.com/yuzu-emu/yuzu//pull/10529) | [`368bf2211`](https://github.com/yuzu-emu/yuzu//pull/10529/files) | caches: make critical reclamation less eager and possible in more cases | [liamwhite](https://github.com/liamwhite/) | Yes |
 | [12461](https://github.com/yuzu-emu/yuzu//pull/12461) | [`2831f5dc6`](https://github.com/yuzu-emu/yuzu//pull/12461/files) | Rework Nvdec and VIC to fix out-of-order videos, and speed up decoding. | [Kelebek1](https://github.com/Kelebek1/) | Yes |
 | [12749](https://github.com/yuzu-emu/yuzu//pull/12749) | [`aad4b0d6f`](https://github.com/yuzu-emu/yuzu//pull/12749/files) | general: workarounds for SMMU syncing issues | [liamwhite](https://github.com/liamwhite/) | Yes |
+| [12982](https://github.com/yuzu-emu/yuzu//pull/12982) | [`ef5027712`](https://github.com/yuzu-emu/yuzu//pull/12982/files) | fs: Add FileSystemAccessor and use cmif serialization | [FearlessTobi](https://github.com/FearlessTobi/) | Yes |
 | [13000](https://github.com/yuzu-emu/yuzu//pull/13000) | [`461eaca7e`](https://github.com/yuzu-emu/yuzu//pull/13000/files) | device_memory_manager: skip unregistered interfaces on invalidate | [liamwhite](https://github.com/liamwhite/) | Yes |
 | [13075](https://github.com/yuzu-emu/yuzu//pull/13075) | [`f46dc3168`](https://github.com/yuzu-emu/yuzu//pull/13075/files) | shader_recompiler: throw on missing geometry streams in geometry shaders | [liamwhite](https://github.com/liamwhite/) | Yes |
-| [13079](https://github.com/yuzu-emu/yuzu//pull/13079) | [`e462bff09`](https://github.com/yuzu-emu/yuzu//pull/13079/files) | vi: misc fixes | [liamwhite](https://github.com/liamwhite/) | Yes |
 
 
 End of merge log. You can find the original README.md below the break.
