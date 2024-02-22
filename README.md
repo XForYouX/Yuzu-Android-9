@@ -18,7 +18,6 @@
 | [13000](https://github.com/yuzu-emu/yuzu//pull/13000) | [`461eaca7e`](https://github.com/yuzu-emu/yuzu//pull/13000/files) | device_memory_manager: skip unregistered interfaces on invalidate | [liamwhite](https://github.com/liamwhite/) | Yes |
 | [13075](https://github.com/yuzu-emu/yuzu//pull/13075) | [`f46dc3168`](https://github.com/yuzu-emu/yuzu//pull/13075/files) | shader_recompiler: throw on missing geometry streams in geometry shaders | [liamwhite](https://github.com/liamwhite/) | Yes |
 | [13096](https://github.com/yuzu-emu/yuzu//pull/13096) | [`0a8759057`](https://github.com/yuzu-emu/yuzu//pull/13096/files) | texture_cache: use two-pass collection for costly load resources | [liamwhite](https://github.com/liamwhite/) | Yes |
-| [13105](https://github.com/yuzu-emu/yuzu//pull/13105) | [`de5422b1f`](https://github.com/yuzu-emu/yuzu//pull/13105/files) | android: Misc controller fixes | [t895](https://github.com/t895/) | Yes |
 
 
 End of merge log. You can find the original README.md below the break.
