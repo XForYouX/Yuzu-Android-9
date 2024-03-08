@@ -36,39 +36,9 @@ It is written in C++ with portability in mind, and we actively maintain builds f
 </p>
 
 <p align="center">
-  <a href="#compatibility">Compatibility</a> |
-  <a href="#development">Development</a> |
-  <a href="#building">Building</a> |
-  <a href="#download">Download</a> |
   <a href="#support-playstore">Support Via Playstore</a> |
   <a href="#license">License</a>
 </p>
-
-## Compatibility
-
-The emulator is capable of running most commercial games at full speed, provided you meet the [necessary hardware requirements](https://yuzu-emu.org/help/quickstart/#hardware-requirements).
-
-For a full list of games yuzu supports, please visit our [Compatibility page](https://yuzu-emu.org/game/).
-
-Check out our [website](https://yuzu-emu.org/) for the latest news on exciting features, monthly progress reports, and more!
-
-## Development
-
-Most of the development happens on GitHub. It's also where [our central repository](https://github.com/yuzu-emu/yuzu) is hosted. For development discussion, please join us on [Discord](https://discord.com/invite/u77vRWY).
-
-If you want to contribute, please take a look at the [Contributor's Guide](https://github.com/yuzu-emu/yuzu/wiki/Contributing) and [Developer Information](https://github.com/yuzu-emu/yuzu/wiki/Developer-Information).
-You can also contact any of the developers on Discord in order to know about the current state of the emulator.
-
-If you want to contribute to the user interface translation project, please check out the [yuzu project on transifex](https://www.transifex.com/yuzu-emulator/yuzu). We centralize translation work there, and periodically upstream translations.
-
-## Building
-
-* __Windows__: [Windows Build](https://github.com/yuzu-emu/yuzu/wiki/Building-For-Windows)
-* __Linux__: [Linux Build](https://github.com/yuzu-emu/yuzu/wiki/Building-For-Linux)
-
-## Download
-
-You can download the latest releases automatically via the installer on our [downloads](https://yuzu-emu.org/downloads/) page.
 
 ## support-playstore
 
