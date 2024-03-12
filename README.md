@@ -2,9 +2,9 @@
 
 **Enjoy**
 
-**Full Changelog Alpha V.22**
+**Full Changelog Alpha V.23**
 
-(https://github.com/XForYouX/Yuzu-Android-9/releases/tag/Alpha-V.22)
+(https://github.com/XForYouX/Yuzu-Android-9/releases/tag/Alpha-V.23)
 
 **Full Changelog NCE V.275**
 
